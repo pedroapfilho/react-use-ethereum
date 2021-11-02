@@ -11,4 +11,4 @@ const useEthereum = () => {
   return context;
 };
 
-export { useEthereum };
+export default useEthereum;
